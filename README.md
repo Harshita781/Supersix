@@ -90,4 +90,7 @@ The main application code is located in app.py. Here's a brief overview of the c
 ![Capture](https://github.com/Harshita781/Supersix-project/blob/main/images/02.png)
 ![Capture](https://github.com/Harshita781/Supersix-project/blob/main/images/03.png)
 ![Capture](https://github.com/Harshita781/Supersix-project/blob/main/images/04.png)
-[![Watch the video](https://github.com/Harshita781/Supersix-project/blob/main/images/project%20video.mp4)](https://github.com/Harshita781/Supersix-project/blob/main/images/project%20video.mp4)
+
+
+https://github.com/Harshita781/Supersix-project/assets/88783265/eab79ca6-b7b0-4e26-a9a3-013fd34e17df
+
