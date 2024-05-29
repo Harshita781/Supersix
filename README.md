@@ -34,9 +34,9 @@ Clone the repository and install the required dependencies:
 ### Running the Application
 
 Run the Streamlit application using the following command:
-
+```shell
 streamlit run app.py
-
+```
 This will start a local web server, and you can access the application in your web browser at http://localhost:8501.
 
 ## Usage
@@ -67,8 +67,9 @@ To calculate the subscription pricing based on credit score and the number of cr
 - PricePerCreditScorePoint: The additional price per credit score point.
   
 Formula:
+ ```shell
 SubscriptionPrice = BasePrice + (PricePerCreditLine * CreditLines) + (PricePerCreditScorePoint * CreditScore)
-
+```
 ## Code Explanation
 The main application code is located in app.py. Here's a brief overview of the code structure:
 
@@ -84,3 +85,9 @@ The main application code is located in app.py. Here's a brief overview of the c
   - Input fields for base price, price per credit line, and price per credit score point.
   - A button to calculate the subscription prices using the provided formula.
   - The calculated prices are displayed in the table.
+## Preview
+![Capture](https://github.com/Harshita781/Supersix-project/blob/main/images/01.png)
+![Capture](https://github.com/Harshita781/Supersix-project/blob/main/images/02.png)
+![Capture](https://github.com/Harshita781/Supersix-project/blob/main/images/03.png)
+![Capture](https://github.com/Harshita781/Supersix-project/blob/main/images/04.png)
+[![Capture](https://github.com/Harshita781/Supersix-project/blob/main/images/.png)](https://github.com/Harshita781/Supersix-project/blob/main/images/project%20video.mp4)
