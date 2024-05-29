@@ -1,6 +1,6 @@
 # Subscription Pricing Calculator
-[![Live Demo](https://ipl-win-predictor-by-harshi-ta781.streamlit.app/)](https://supersix-projec-p9mb6ja6hasyaz9gfhhmfp.streamlit.app/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-IPL%20Win%20Predictor-green)](https://github.com/Harshita781/Supersix-project/)
+[![Live Demo](https://supersix-projec-p9mb6ja6hasyaz9gfhhmfp.streamlit.app/)](https://supersix-projec-p9mb6ja6hasyaz9gfhhmfp.streamlit.app/)
+[![GitHub Repository](https://github.com/Harshita781/Supersix-project/)](https://github.com/Harshita781/Supersix-project/)
 This repository contains a web application built using Streamlit. The application allows users to upload CSV files, display data with pagination, and calculate subscription pricing based on the uploaded data. The application is designed to handle large datasets efficiently and provide real-time feedback during uploads.
 
 ## Features
