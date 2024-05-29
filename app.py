@@ -7,7 +7,7 @@ def calculate_subscription_price(row, base_price, price_per_credit_line, price_p
 
 # Streamlit App
 def main():
-    st.title("CSV Upload and Subscription Pricing Calculator")
+    st.title("Subscription Pricing Calculator")
 
     # Upload CSV file
     uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
